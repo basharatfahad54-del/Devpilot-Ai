@@ -264,9 +264,6 @@ Unit tests cover tool argument validation and workspace boundaries, the approval
 - React + FastAPI UI with WebSocket streaming of the agent loop.
 - Mocked-LLM end-to-end test in CI plus a cost/usage report per task.
 
-## Demo Recording
-
-[📹 Demo video](PLACEHOLDER_LINK) — replace `PLACEHOLDER_LINK` with your recording URL.
 
 ## Documentation
 
